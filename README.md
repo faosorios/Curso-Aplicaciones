@@ -13,3 +13,8 @@ El curso introduce los principales métodos modernos de aprendizaje estadístico
 * James, G., Witten, D., Hastie, T., Tibshirani, R. (2014). *An Introduction to Statistical Learning, with Applications in R*. Springer, New York.
 * Kuhn, M., Johnson, K. (2013). *Applied Predictive Modeling*. Springer, New York.
 * Murphy, K.P. (2022). *Probabilistic Machine Learning: An Introduction*. MIT Press, Cambridge.
+
+## Material de clase
+
+- Sesion 0: Introducción [[slides]](diapositivas/slides-00.pdf)
+- Sesion 1: Aspectos numéricos de estimación LS en regresión lineal [[slides]](diapositivas/slides-01.pdf)

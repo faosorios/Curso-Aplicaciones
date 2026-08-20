@@ -18,3 +18,8 @@ El curso introduce los principales métodos modernos de aprendizaje estadístico
 
 - Sesion 0: Introducción [[slides]](diapositivas/slides-00.pdf)
 - Sesion 1: Aspectos numéricos de estimación LS en regresión lineal [[slides]](diapositivas/slides-01.pdf)
+
+## Conjuntos de datos
+
+- Puntajes adaptativos de Gesell: [[gesell.csv]](datasets/gesell.csv), [[gesell.rda]](datasets/gesell.rda)
+- Cemento Portland: [[portland.rda]](datasets/portland.rda)
